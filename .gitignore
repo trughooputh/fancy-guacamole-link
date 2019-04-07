@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+compile/node_modules
+
+# logs
+npm-debug.log
+yarn-error.log
+
+.sass-cache
+
+.idea
+
+.DS_Store
+
+.vscode
+
+/test/unit/coverage/
+
+lib/*
+
